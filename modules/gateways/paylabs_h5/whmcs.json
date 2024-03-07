@@ -1,0 +1,31 @@
+{
+    "schema": "1.0",
+    "type": "whmcs-gateways",
+    "name": "paylabs_h5",
+    "license": "MIT",
+    "category": "payments",
+    "description": {
+        "name": "Paylabs Payment Gateway Module",
+        "tagline": "Secure Payment (Bank Transfer, Virtual Account, QRIS, Credit Card, E-Money)",
+        "long": "Receive payment with Paylabs.",
+        "features": [
+			"Bank Transfer", "Virtual Account", "QRIS", "Credit Card", "E-Money"
+        ]
+    },
+    "logo": {
+        "filename": "logo.jpg"
+    },
+    "support": {
+        "homepage": "https:\/\/paylabs.co.id\/", 
+        "learn_more": "https:\/\/paylabs.co.id\/about-about.html", 
+        "email": "cs@paylabs.co.id", 
+        "support_url": "https:\/\/paylabs.co.id\/about-contactus.html",
+        "docs_url": "https:\/\/paylabs.co.id\/api-reference.html"
+    },
+    "authors": [
+        {
+            "name": "IT Paylabs",
+            "homepage": "https:\/\/paylabs.co.id\/"
+        }
+    ]
+}
