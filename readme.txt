@@ -1,4 +1,4 @@
-=== duitku WHMCS ===
+=== Paylabs WHMCS ===
 /*
 Plugin Name:  paylabs-whmcs
 Description:  Paylabs Payment Gateway 
